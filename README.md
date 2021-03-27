@@ -2,7 +2,7 @@
 This javascript code Let you to have decimal price numbers which can be useful in cryptocurrencies price. This javascript method is exactly like PHP number_format but it is not limited to an integer.
 
 ### How To Use
-Dependencies:
+Dependencies:  
 • Use last version of jquery
 ```sh
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
