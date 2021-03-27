@@ -11,11 +11,11 @@ Dependencies:
 ```sh
 <script src="decimal-number-format.js"></script>
 ```
-Use data-decimal-number attribute in a tag you want to show number
+###### Use data-decimal-number attribute in a tag you want to show number
 ```<span data-decimal-number="">15651.12345</span>```
 
 ### Options
-You can limit the decimal places
+###### You can limit the decimal places
 ```<span data-decimal-number='{"decimalNumber":2}'>15651.12345</span>```
 
  ```
