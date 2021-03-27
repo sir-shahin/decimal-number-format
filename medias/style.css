@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+div:first-child {
+    width:100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    width: 100%;
+    text-align: center;
+}
+span[data-decimal-number] {
+    background-color: #eeeeee;
+    padding: 35px 40px;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 5px;
+    font-size: 30px;
+}
